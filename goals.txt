@@ -1,0 +1,10 @@
+Summary of what I Learned from pathy 
+- Git is the tool that tracks our code changes locally on our device, and VS is the editor where we write the code without the mess of regular notes apps.
+- The difference in short Git works locally offline while Github is the website/could where we upload our work to share it globally and work together 
+- The main command we used over and over:
+- git init (to initialize Git for the first time)
+- git status (to check what's going on with the files)
+- git add . (to stage the files we want to save)
+- git commit -m "..." (to lock in the changes with a description message)
+- git log (to check our history and past changes)
+- git push (to upload Everything to Github outside the local machine)
